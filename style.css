@@ -1,0 +1,41 @@
+body {
+    background: white;
+    font: normal 15pt Arial; 
+}
+
+header {
+    color: white;
+    background-color:#4caf50;
+    text-align: left;    
+    
+}
+
+section {
+    background: white;
+    padding: 15px;
+    width: 1000px; 
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 1px 1px 5px grey;  
+}
+
+button[type=button] {
+    margin-left: 950px; 
+    background-color: #4caf50;
+    font-size: 20px; color: honeydew;
+    border: none;
+}
+
+#prioridade{
+    width: fit-content;
+    background-color: red;
+    color: white;
+    box-shadow: 5px 1px 5px grey;  
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+
+}
